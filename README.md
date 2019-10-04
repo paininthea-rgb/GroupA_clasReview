@@ -1,6 +1,7 @@
-# GroupA_clasReview
-This is some random text.
-Practice 4
 
-## this is text you want in the project
-Use this one
+# Lab Review - Group 
+Working through some troubles
+review stuffs
+
+## this is stuff to work
+breaking and fixing workflow!
